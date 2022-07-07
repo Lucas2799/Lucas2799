@@ -4,7 +4,7 @@
 <div align="center">
 <a href="https://github.com/Lucas2799">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas2799&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas2799&layout=compact&langs_count=7&theme=dark"/>
+ <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas2799&layout=compact&langs_count=7&theme=dark"/>-->
 <a href="http://www.github.com/Lucas2799"><img src="https://activity-graph.herokuapp.com/graph?username=Lucas2799&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
   <div style="display: inline_block" align="center"><br>
