@@ -3,8 +3,11 @@
  </div> 
 <div align="center">
 <a href="https://github.com/Lucas2799">
+  <div align="center">
+  <h1>📊 Estatísticas GitHub</h1>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas2799&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas2799&layout=compact&langs_count=7&theme=dark"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas2799&layout=compact&langs_count=7&theme=dark"/>
+ </div> 
 
 </div>
   <div style="display: inline_block" align="center"><br>
@@ -20,14 +23,6 @@
 </div>
  <br/>
  
-<div align="center">
-  <h1>📊 Estatísticas GitHub</h1>
- </div> 
-<div align="center">
-
- 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas2799&layout=compact&langs_count=7&theme=github_dark&title_color=3A5F0B&text_color=ffffff&bg_color=0d1117"/>
 
 </div>
 <div align="center">
